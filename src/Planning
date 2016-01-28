@@ -1,1 +1,14 @@
-G
+Genetic Algorithm Plans:
+    -Petri Dish
+        -Circular
+        -Contains:
+            -Food parcels(+1 fitness)
+            -Other cells(+2 fitness)
+            -Obstacles/walls
+                -show how genetic algorithms work around limitations over the course of generations
+        -DNA:
+            -Series of strings:
+                -Movement:
+                    -"M:(direction)" ("M:U" == move up)(cost 1 food)
+                -Expansion:
+                    -"E:(measure)" ("E:L" == expand lengthwise)(cost 1 food)
