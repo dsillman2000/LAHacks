@@ -12,3 +12,22 @@ Genetic Algorithm Plans:
                     -"M:(direction)" ("M:U" == move up)(cost 1 food)
                 -Expansion:
                     -"E:(measure)" ("E:L" == expand lengthwise)(cost 1 food)
+
+        TIME ALLOTTED PER TASK:                         ==================================================
+            Work on randomizing environments    : 3h    |                                                |
+                                                        |   Work on UI throughout this design process    |
+            Build and implement GA concepts             |                                                |
+            such as DNA, crossover, reprod,     : 5h    ==================================================
+            mutation, etc.
+
+            Work on interaction constraints
+            such as collisions, FOV(?) and      : 5h
+            reading DNA for actions.
+
+            Creating presentable setup
+            designed for exact specs for
+            our purpose and application like    : 2h
+            collecting, displaying, and
+            interpreting data.
+
+                                                ~15h
